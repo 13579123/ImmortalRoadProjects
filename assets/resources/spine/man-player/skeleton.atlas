@@ -1,0 +1,153 @@
+
+skeleton.png
+size: 1178,829
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hair-2
+  rotate: false
+  xy: 856, 717
+  size: 233, 110
+  orig: 233, 110
+  offset: 0, 0
+  index: -1
+hair-3
+  rotate: true
+  xy: 856, 373
+  size: 196, 135
+  orig: 196, 135
+  offset: 0, 0
+  index: -1
+human-body
+  rotate: true
+  xy: 2, 3
+  size: 824, 852
+  orig: 836, 860
+  offset: 5, 4
+  index: -1
+human-left-hand
+  rotate: false
+  xy: 856, 571
+  size: 189, 144
+  orig: 189, 146
+  offset: 0, 1
+  index: -1
+human-right-hand
+  rotate: true
+  xy: 856, 152
+  size: 219, 111
+  orig: 836, 860
+  offset: 118, 143
+  index: -1
+lingmai_00
+  rotate: false
+  xy: 969, 176
+  size: 94, 94
+  orig: 100, 100
+  offset: 5, 6
+  index: -1
+lingmai_01
+  rotate: true
+  xy: 1090, 372
+  size: 82, 86
+  orig: 100, 100
+  offset: 10, 9
+  index: -1
+lingmai_02
+  rotate: true
+  xy: 1046, 2
+  size: 80, 85
+  orig: 100, 100
+  offset: 9, 7
+  index: -1
+lingmai_03
+  rotate: true
+  xy: 957, 2
+  size: 80, 87
+  orig: 100, 100
+  offset: 9, 6
+  index: -1
+lingmai_04
+  rotate: true
+  xy: 969, 84
+  size: 90, 95
+  orig: 100, 100
+  offset: 3, 5
+  index: -1
+lingmai_05
+  rotate: false
+  xy: 856, 55
+  size: 99, 95
+  orig: 100, 100
+  offset: 1, 5
+  index: -1
+lingmai_06
+  rotate: true
+  xy: 993, 470
+  size: 99, 95
+  orig: 100, 100
+  offset: 1, 5
+  index: -1
+lingmai_07
+  rotate: true
+  xy: 993, 369
+  size: 99, 95
+  orig: 100, 100
+  offset: 1, 5
+  index: -1
+lingmai_08
+  rotate: false
+  xy: 969, 272
+  size: 99, 95
+  orig: 100, 100
+  offset: 1, 5
+  index: -1
+lingmai_09
+  rotate: false
+  xy: 1070, 200
+  size: 99, 88
+  orig: 100, 100
+  offset: 1, 7
+  index: -1
+lingmai_10
+  rotate: true
+  xy: 1091, 728
+  size: 99, 85
+  orig: 100, 100
+  offset: 1, 7
+  index: -1
+lingmai_11
+  rotate: true
+  xy: 1090, 541
+  size: 97, 86
+  orig: 100, 100
+  offset: 1, 6
+  index: -1
+lingmai_12
+  rotate: false
+  xy: 1066, 114
+  size: 90, 84
+  orig: 100, 100
+  offset: 5, 7
+  index: -1
+lingmai_13
+  rotate: false
+  xy: 1090, 456
+  size: 86, 83
+  orig: 100, 100
+  offset: 5, 7
+  index: -1
+lingmai_14
+  rotate: false
+  xy: 1090, 290
+  size: 86, 80
+  orig: 100, 100
+  offset: 5, 10
+  index: -1
+lingmai_15
+  rotate: true
+  xy: 1091, 640
+  size: 86, 85
+  orig: 100, 100
+  offset: 7, 10
+  index: -1

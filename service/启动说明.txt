@@ -1,0 +1,7 @@
+yarn install
+
+yarn run dev
+
+使用前请配置 .env 文件
+
+请确保mysql存在对应的数据库，redis，存储桶正常运行

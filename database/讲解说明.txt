@@ -1,0 +1,5 @@
+syncDatabase.js 文件用于同步前后端数据表结构
+admin 后台管理系统，使用框架为vue
+ImmortalRoad 编写的 cocos 3.8.0 游戏
+RestService 游戏后台启动需要配置 .env 文件
+database.sql 为基础数据可以直接导入mysql

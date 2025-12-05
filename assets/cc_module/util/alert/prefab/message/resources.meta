@@ -1,0 +1,12 @@
+{
+  "ver": "1.2.0",
+  "importer": "directory",
+  "imported": true,
+  "uuid": "d6f4ea4d-f1e4-49f5-8f0e-df9bfe3ff358",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "isBundle": true,
+    "bundleName": "ModuleUtilAlertMessageResource"
+  }
+}

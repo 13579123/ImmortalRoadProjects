@@ -1,0 +1,258 @@
+
+skeleton.png
+size: 595,1083
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Monster01_attack_001
+  rotate: false
+  xy: 151, 142
+  size: 133, 142
+  orig: 256, 256
+  offset: 69, 46
+  index: -1
+Monster01_attack_002
+  rotate: false
+  xy: 448, 2
+  size: 137, 137
+  orig: 256, 256
+  offset: 59, 46
+  index: -1
+Monster01_attack_003
+  rotate: false
+  xy: 2, 297
+  size: 134, 132
+  orig: 256, 256
+  offset: 57, 46
+  index: -1
+Monster01_attack_004
+  rotate: true
+  xy: 263, 662
+  size: 132, 128
+  orig: 256, 256
+  offset: 66, 46
+  index: -1
+Monster01_attack_005
+  rotate: true
+  xy: 2, 690
+  size: 121, 126
+  orig: 256, 256
+  offset: 77, 46
+  index: -1
+Monster01_attack_006
+  rotate: false
+  xy: 2, 431
+  size: 136, 126
+  orig: 256, 256
+  offset: 78, 46
+  index: -1
+Monster01_attack_007
+  rotate: false
+  xy: 434, 141
+  size: 150, 128
+  orig: 256, 256
+  offset: 89, 45
+  index: -1
+Monster01_attack_008
+  rotate: false
+  xy: 148, 8
+  size: 150, 132
+  orig: 256, 256
+  offset: 103, 39
+  index: -1
+Monster01_attack_009
+  rotate: true
+  xy: 130, 682
+  size: 117, 131
+  orig: 256, 256
+  offset: 117, 45
+  index: -1
+Monster01_attack_010
+  rotate: true
+  xy: 133, 801
+  size: 110, 133
+  orig: 256, 256
+  offset: 115, 45
+  index: -1
+Monster01_attack_011
+  rotate: true
+  xy: 396, 766
+  size: 114, 135
+  orig: 256, 256
+  offset: 108, 45
+  index: -1
+Monster01_attack_012
+  rotate: true
+  xy: 2, 559
+  size: 121, 140
+  orig: 256, 256
+  offset: 95, 43
+  index: -1
+Monster01_attack_013
+  rotate: true
+  xy: 393, 650
+  size: 114, 143
+  orig: 256, 256
+  offset: 88, 42
+  index: -1
+Monster01_attack_014
+  rotate: true
+  xy: 436, 271
+  size: 127, 143
+  orig: 256, 256
+  offset: 80, 45
+  index: -1
+Monster01_attack_015
+  rotate: true
+  xy: 2, 23
+  size: 132, 144
+  orig: 256, 256
+  offset: 79, 46
+  index: -1
+Monster01_attack_016
+  rotate: true
+  xy: 300, 7
+  size: 132, 146
+  orig: 256, 256
+  offset: 73, 46
+  index: -1
+Monster01_death_001
+  rotate: true
+  xy: 451, 882
+  size: 106, 130
+  orig: 256, 256
+  offset: 64, 58
+  index: -1
+Monster01_death_002
+  rotate: true
+  xy: 2, 813
+  size: 106, 129
+  orig: 256, 256
+  offset: 64, 58
+  index: -1
+Monster01_death_003
+  rotate: true
+  xy: 268, 796
+  size: 110, 126
+  orig: 256, 256
+  offset: 64, 52
+  index: -1
+Monster01_death_004
+  rotate: false
+  xy: 481, 990
+  size: 112, 91
+  orig: 256, 256
+  offset: 64, 71
+  index: -1
+Monster01_death_005
+  rotate: false
+  xy: 356, 1000
+  size: 123, 81
+  orig: 256, 256
+  offset: 57, 67
+  index: -1
+Monster01_death_006
+  rotate: false
+  xy: 2, 921
+  size: 134, 82
+  orig: 256, 256
+  offset: 52, 56
+  index: -1
+Monster01_death_007
+  rotate: false
+  xy: 138, 913
+  size: 147, 89
+  orig: 256, 256
+  offset: 39, 38
+  index: -1
+Monster01_death_008
+  rotate: false
+  xy: 287, 908
+  size: 162, 90
+  orig: 256, 256
+  offset: 24, 27
+  index: -1
+Monster01_death_009
+  rotate: false
+  xy: 181, 1004
+  size: 173, 77
+  orig: 256, 256
+  offset: 13, 34
+  index: -1
+Monster01_death_010
+  rotate: false
+  xy: 2, 1005
+  size: 177, 76
+  orig: 256, 256
+  offset: 9, 31
+  index: -1
+Monster01_idel_001
+  rotate: true
+  xy: 2, 157
+  size: 127, 147
+  orig: 256, 256
+  offset: 78, 46
+  index: -1
+Monster01_idel_002
+  rotate: true
+  xy: 138, 286
+  size: 125, 147
+  orig: 256, 256
+  offset: 80, 46
+  index: -1
+Monster01_idel_003
+  rotate: true
+  xy: 290, 400
+  size: 124, 147
+  orig: 256, 256
+  offset: 81, 46
+  index: -1
+Monster01_idel_004
+  rotate: true
+  xy: 144, 538
+  size: 122, 148
+  orig: 256, 256
+  offset: 82, 46
+  index: -1
+Monster01_idel_005
+  rotate: true
+  xy: 294, 526
+  size: 122, 148
+  orig: 256, 256
+  offset: 82, 46
+  index: -1
+Monster01_idel_006
+  rotate: true
+  xy: 444, 526
+  size: 122, 148
+  orig: 256, 256
+  offset: 82, 46
+  index: -1
+Monster01_idel_007
+  rotate: true
+  xy: 140, 413
+  size: 123, 148
+  orig: 256, 256
+  offset: 81, 46
+  index: -1
+Monster01_idel_008
+  rotate: true
+  xy: 439, 400
+  size: 124, 148
+  orig: 256, 256
+  offset: 80, 46
+  index: -1
+Monster01_idel_009
+  rotate: true
+  xy: 287, 272
+  size: 126, 147
+  orig: 256, 256
+  offset: 78, 46
+  index: -1
+Monster01_idel_010
+  rotate: true
+  xy: 286, 142
+  size: 128, 146
+  orig: 256, 256
+  offset: 77, 46
+  index: -1

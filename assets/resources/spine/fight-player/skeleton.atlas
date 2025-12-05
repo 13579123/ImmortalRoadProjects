@@ -1,0 +1,118 @@
+
+skeleton.png
+size: 771,187
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lingmai_00
+  rotate: false
+  xy: 390, 91
+  size: 94, 94
+  orig: 100, 100
+  offset: 5, 6
+  index: -1
+lingmai_01
+  rotate: true
+  xy: 2, 2
+  size: 82, 86
+  orig: 100, 100
+  offset: 10, 9
+  index: -1
+lingmai_02
+  rotate: true
+  xy: 267, 4
+  size: 80, 85
+  orig: 100, 100
+  offset: 9, 7
+  index: -1
+lingmai_03
+  rotate: true
+  xy: 90, 4
+  size: 80, 87
+  orig: 100, 100
+  offset: 9, 6
+  index: -1
+lingmai_04
+  rotate: true
+  xy: 491, 5
+  size: 90, 95
+  orig: 100, 100
+  offset: 3, 5
+  index: -1
+lingmai_05
+  rotate: true
+  xy: 2, 86
+  size: 99, 95
+  orig: 100, 100
+  offset: 1, 5
+  index: -1
+lingmai_06
+  rotate: true
+  xy: 99, 86
+  size: 99, 95
+  orig: 100, 100
+  offset: 1, 5
+  index: -1
+lingmai_07
+  rotate: true
+  xy: 196, 86
+  size: 99, 95
+  orig: 100, 100
+  offset: 1, 5
+  index: -1
+lingmai_08
+  rotate: true
+  xy: 293, 86
+  size: 99, 95
+  orig: 100, 100
+  offset: 1, 5
+  index: -1
+lingmai_09
+  rotate: false
+  xy: 486, 97
+  size: 99, 88
+  orig: 100, 100
+  offset: 1, 7
+  index: -1
+lingmai_10
+  rotate: false
+  xy: 390, 4
+  size: 99, 85
+  orig: 100, 100
+  offset: 1, 7
+  index: -1
+lingmai_11
+  rotate: false
+  xy: 587, 99
+  size: 97, 86
+  orig: 100, 100
+  offset: 1, 6
+  index: -1
+lingmai_12
+  rotate: true
+  xy: 588, 7
+  size: 90, 84
+  orig: 100, 100
+  offset: 5, 7
+  index: -1
+lingmai_13
+  rotate: true
+  xy: 686, 99
+  size: 86, 83
+  orig: 100, 100
+  offset: 5, 7
+  index: -1
+lingmai_14
+  rotate: false
+  xy: 179, 4
+  size: 86, 80
+  orig: 100, 100
+  offset: 5, 10
+  index: -1
+lingmai_15
+  rotate: true
+  xy: 674, 11
+  size: 86, 85
+  orig: 100, 100
+  offset: 7, 10
+  index: -1

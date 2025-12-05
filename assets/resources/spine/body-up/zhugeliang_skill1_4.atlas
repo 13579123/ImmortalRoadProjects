@@ -1,0 +1,97 @@
+
+zhugeliang_skill1_4.png
+size: 697,246
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangxian02
+  rotate: true
+  xy: 213, 88
+  size: 9, 66
+  orig: 20, 70
+  offset: 6, 2
+  index: -1
+xingxing
+  rotate: false
+  xy: 287, 217
+  size: 27, 27
+  orig: 30, 30
+  offset: 1, 1
+  index: -1
+z_bao0001
+  rotate: false
+  xy: 213, 99
+  size: 103, 65
+  orig: 133, 135
+  offset: 10, 1
+  index: -1
+z_bao0002
+  rotate: false
+  xy: 429, 2
+  size: 128, 113
+  orig: 133, 135
+  offset: 0, 5
+  index: -1
+z_bao0003
+  rotate: false
+  xy: 442, 128
+  size: 128, 116
+  orig: 133, 135
+  offset: 0, 15
+  index: -1
+z_bao0004
+  rotate: true
+  xy: 318, 117
+  size: 127, 122
+  orig: 133, 135
+  offset: 2, 13
+  index: -1
+z_bao0005
+  rotate: false
+  xy: 559, 8
+  size: 107, 118
+  orig: 133, 135
+  offset: 13, 16
+  index: -1
+z_bao0006
+  rotate: true
+  xy: 311, 2
+  size: 95, 116
+  orig: 133, 135
+  offset: 20, 17
+  index: -1
+z_bao0007
+  rotate: true
+  xy: 204, 6
+  size: 77, 105
+  orig: 133, 135
+  offset: 22, 28
+  index: -1
+z_fazhen01
+  rotate: false
+  xy: 2, 85
+  size: 209, 79
+  orig: 220, 84
+  offset: 5, 3
+  index: -1
+z_fazhen02
+  rotate: false
+  xy: 2, 4
+  size: 200, 79
+  orig: 220, 84
+  offset: 8, 3
+  index: -1
+z_guangquan
+  rotate: false
+  xy: 2, 166
+  size: 283, 78
+  orig: 300, 88
+  offset: 7, 5
+  index: -1
+z_guangzhu
+  rotate: true
+  xy: 572, 157
+  size: 87, 123
+  orig: 100, 129
+  offset: 6, 5
+  index: -1

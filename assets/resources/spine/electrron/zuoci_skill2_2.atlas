@@ -1,0 +1,55 @@
+
+zuoci_skill2_2.png
+size: 268,637
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+6
+  rotate: false
+  xy: 101, 578
+  size: 158, 57
+  orig: 160, 58
+  offset: 0, 0
+  index: -1
+guangquan
+  rotate: false
+  xy: 2, 597
+  size: 97, 38
+  orig: 100, 40
+  offset: 2, 1
+  index: -1
+shandian01
+  rotate: true
+  xy: 2, 486
+  size: 90, 263
+  orig: 143, 281
+  offset: 26, 9
+  index: -1
+shandian02
+  rotate: true
+  xy: 2, 389
+  size: 95, 263
+  orig: 143, 281
+  offset: 24, 9
+  index: -1
+shandian03
+  rotate: true
+  xy: 2, 147
+  size: 139, 264
+  orig: 143, 281
+  offset: 4, 9
+  index: -1
+shandian04
+  rotate: true
+  xy: 2, 2
+  size: 143, 262
+  orig: 143, 281
+  offset: 0, 12
+  index: -1
+shandian05
+  rotate: true
+  xy: 2, 288
+  size: 99, 255
+  orig: 143, 281
+  offset: 22, 15
+  index: -1
